@@ -252,6 +252,8 @@ int mohand()
 	int x = 100;
 	int c = 10;
 	int m = 200;
+	string name = "10";
+	string nuym = " ";
 	return x * c;
 }
 
