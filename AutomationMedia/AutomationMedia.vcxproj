@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AutomationMedia.cpp" />
+    <ClCompile Include="VideoCompress.cpp" />
     <ClCompile Include="clsVideoAsset.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
