@@ -24,6 +24,7 @@
     <ProjectGuid>{63cfb711-04e9-41fe-8d28-c9b1e1a43bf9}</ProjectGuid>
     <RootNamespace>AutomationMedia</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>VideoCopress</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

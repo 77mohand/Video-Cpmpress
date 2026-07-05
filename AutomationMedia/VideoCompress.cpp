@@ -226,6 +226,8 @@ int main(){
 	string platform = Platform_PUP();
 	int targetBitrate = VideoQuality();
 
+	int c = 100;
+
 	cout << "\n================= PROCESSING START =================\n";
 
 	for (int i = 0; i < myVideosPaths.size(); i++) {
