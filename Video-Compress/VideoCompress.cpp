@@ -219,6 +219,7 @@ string TransformExtaintion() {
 int mohand() { // git 
 	int x = 100;
 	int c = 10;
+	int m = 200;
 	return x * c;
 }
 
