@@ -216,6 +216,9 @@ string TransformExtaintion() {
 	}
 }
 
+	int mohand() {
+
+	}
 
 int main(){
 
