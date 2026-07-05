@@ -216,7 +216,6 @@ string TransformExtaintion() {
 	}
 }
 
-string mo() {}
 
 int main(){
 
