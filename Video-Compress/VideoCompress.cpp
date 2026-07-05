@@ -216,6 +216,11 @@ string TransformExtaintion() {
 	}
 }
 
+int mohand() { // git 
+	int x = 100;
+	return x;
+}
+
 int main(){
 
 	Desin();
@@ -225,7 +230,7 @@ int main(){
 	string platform = Platform_PUP();
 	int targetBitrate = VideoQuality();
 
-	string x =10;
+	int c = 100;
 
 	cout << "\n================= PROCESSING START =================\n";
 
