@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AutomationMedia/AutomationMedia.vcxproj" Id="63cfb711-04e9-41fe-8d28-c9b1e1a43bf9" />
+</Solution>
