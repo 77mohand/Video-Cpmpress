@@ -247,16 +247,6 @@ string TransformExtaintion()
 	}
 }
 
-int mohand()
-{ // git
-	int x = 100;
-	int c = 10;
-	int m = 200;
-	string name = "10";
-	string nuym = " ";
-	int num = stoi(name);
-	return x * c;
-}
 
 int main()
 {
