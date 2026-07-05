@@ -254,6 +254,7 @@ int mohand()
 	int m = 200;
 	string name = "10";
 	string nuym = " ";
+	int num = stoi(name);
 	return x * c;
 }
 
