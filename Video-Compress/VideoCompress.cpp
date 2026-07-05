@@ -218,7 +218,8 @@ string TransformExtaintion() {
 
 int mohand() { // git 
 	int x = 100;
-	return x;
+	int c = 10;
+	return x * c;
 }
 
 int main(){
@@ -229,8 +230,6 @@ int main(){
 	string extention = TransformExtaintion();
 	string platform = Platform_PUP();
 	int targetBitrate = VideoQuality();
-
-	int c = 100;
 
 	cout << "\n================= PROCESSING START =================\n";
 
